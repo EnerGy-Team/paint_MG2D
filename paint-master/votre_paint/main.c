@@ -5,7 +5,7 @@
 int main(int argc, char** argv)
  {
   creation_fenetre(COIN_HAUT_GAUCHE_X,COIN_HAUT_GAUCHE_Y,TAILLE_X,TAILLE_Y);
-
+//affichage dans le terminal des touches possible
   printf("Appuyez sur les touches du pavé numérique de 1 à 3 pour voir des points apparaître\n");
   printf("Appuyer sur la touche 4 du clavier pour creer une droite\n");
   printf("Appuyer sur la touche 5 du clavier pour creer un cercle\n");
